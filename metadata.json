@@ -1,0 +1,5 @@
+{
+  "name": "IEC 63345 Energy Monitor",
+  "description": "A compliant implementation of the Simple External Consumer Display standard (IEC 63345:2023) for visualizing energy efficiency system data.",
+  "requestFramePermissions": []
+}
